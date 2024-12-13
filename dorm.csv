@@ -1,0 +1,85 @@
+"id";"username";"email";"password";"reg_date";"updation_date"
+"1";"admin";"admin@umkc.edu";"admin@123";"2016-04-04 15:31:45";"2019-10-24"
+"id";"adminid";"ip";"logintime"
+"id";"course_code";"course_sn";"course_fn";"posting_date"
+"11";"MS";"MS";"Masters";"2019-10-24 16:42:28"
+"12";"BS";"BS";"Bachelors";"2019-10-24 16:42:38"
+"13";"PhD";"PhD";"PhD";"2019-10-24 16:43:28"
+"id";"roomno";"seater";"feespm";"foodstatus";"stayfrom";"duration";"course";"regno";"firstName";"middleName";"lastName";"gender";"contactno";"emailid";"egycontactno";"guardianName";"guardianRelation";"guardianContactno";"corresAddress";"corresCIty";"corresState";"corresPincode";"pmntAddress";"pmntCity";"pmnatetState";"pmntPincode";"postingDate";"updationDate"
+"6";"100";"5";"8000";"0";"2016-04-22";"5";"Bachelor  of Technology";"10806121";"Anuj";;"kumar";"male";"8285703354";"anuj.lpu1@gmail.com";"0";"XYZ";"Mother";"8285703354";"New Delhi India";"Aligarh";"Uttar Pradesh";"202001";"New Delhi India";"Delhi";"Delhi (NCT)";"202001";"2016-04-16 03:24:09";
+"7";"100";"5";"8000";"1";"2016-06-17";"4";"Bachelor of Engineering";"108061211";"Test";"test";"kumar";"male";"8467067344";"test@gmail.com";"123456789";"test";"test";"1236547890";"New Delhi India";"Aligarh";"Uttar Pradesh";"202001";"New Delhi India";"Delhi";"Delhi (NCT)";"202001";"2016-06-23 06:54:35";
+"8";"112";"3";"4000";"0";"2016-06-27";"5";"Bachelor  of Science";"102355";"rahul";"kumar";"Singh";"male";"6786786786";"rahul@gmail.com";"789632587";"demo";"demo";"1234567890";"New Delhi";"Delhi";"Delhi (NCT)";"110001";"New Delhi";"Delhi";"Delhi (NCT)";"110001";"2016-06-26 11:31:08";
+"9";"132";"5";"2000";"1";"2016-06-28";"6";"Bachelor of Engineering";"586952";"Ajay";;"kumar";"male";"8596185625";"ajay@gmail.com";"8285703354";"demo";"demo";"8285703354";"New Delhi India";"Aligarh";"Uttar Pradesh";"202001";"New Delhi India";"Delhi";"Delhi (NCT)";"202001";"2016-06-26 11:40:07";
+"id";"seater";"room_no";"fees";"posting_date"
+"1";"5";"100";"8000";"2016-04-11 17:45:43"
+"2";"2";"201";"6000";"2016-04-11 20:30:47"
+"3";"2";"200";"6000";"2016-04-11 20:30:58"
+"4";"3";"112";"4000";"2016-04-11 20:31:07"
+"5";"5";"132";"2000";"2016-04-11 20:31:15"
+"id";"State"
+"1";"Andaman and Nicobar Island (UT)"
+"2";"Andhra Pradesh"
+"3";"Arunachal Pradesh"
+"4";"Assam"
+"5";"Bihar"
+"6";"Chandigarh (UT)"
+"7";"Chhattisgarh"
+"8";"Dadra and Nagar Haveli (UT)"
+"9";"Daman and Diu (UT)"
+"10";"Delhi (NCT)"
+"11";"Goa"
+"12";"Gujarat"
+"13";"Haryana"
+"14";"Himachal Pradesh"
+"15";"Jammu and Kashmir"
+"16";"Jharkhand"
+"17";"Karnataka"
+"18";"Kerala"
+"19";"Lakshadweep (UT)"
+"20";"Madhya Pradesh"
+"21";"Maharashtra"
+"22";"Manipur"
+"23";"Meghalaya"
+"24";"Mizoram"
+"25";"Nagaland"
+"26";"Odisha"
+"27";"Puducherry (UT)"
+"28";"Punjab"
+"29";"Rajastha"
+"30";"Sikkim"
+"31";"Tamil Nadu"
+"32";"Telangana"
+"33";"Tripura"
+"34";"Uttarakhand"
+"35";"Uttar Pradesh"
+"36";"West Bengal"
+"id";"userId";"userEmail";"userIp";"city";"country";"loginTime"
+"1";"10";"test@gmail.com";;;;"2016-06-22 01:16:42"
+"2";"10";"test@gmail.com";;;;"2016-06-24 06:20:28"
+"4";"10";"test@gmail.com";"::1";;;"2016-06-24 06:22:47"
+"5";"10";"test@gmail.com";"::1";;;"2016-06-26 10:37:40"
+"6";"20";"ajay@gmail.com";"::1";;;"2016-06-26 11:40:57"
+"7";"10";"test@gmail.com";"::1";;;"2019-06-10 00:02:51"
+"8";"10";"test@gmail.com";"::1";;;"2019-06-10 00:49:42"
+"9";"10";"test@gmail.com";"::1";;;"2019-06-10 02:17:32"
+"10";"10";"test@gmail.com";"::1";;;"2019-06-10 03:08:59"
+"11";"21";"dchandra@mail.umkc.edu";"::1";;;"2019-10-24 16:49:00"
+"12";"23";"dchandra@mail.umkc.edu";"::1";;;"2019-10-28 00:32:30"
+"13";"24";"akkipant@gmail.com";"::1";;;"2019-10-28 00:42:14"
+"id";"regNo";"firstName";"middleName";"lastName";"gender";"contactNo";"email";"password";"food";"work";"course";"sports";"regDate";"updationDate";"passUdateDate"
+"24";"1234567890";"asdfg";"qwerty";"zxcvb";"male";"9876543210";"akkipant@gmail.com";"abcd1234";"Non Vegetarian";"Early Morning";"Under Graduate";"Medical";"2019-10-28 00:41:46";NULL;NULL
+"25";"563926";"James";;"Bond";"male";"7637829634";"jbong@gmail.com";"1234";"Non Vegetarian";"Early Morning";"Graduate";"Ice Hockey";"2019-10-30 12:02:21";NULL;NULL
+"26";"16292654";"Dhairya";;"Chandra";"male";"878658396";"dc@gmail.com";"1234";"Vegetarian";"Early Morning";"Graduate";"Soccer";"2019-10-30 12:03:56";NULL;NULL
+"27";"67292662";"Rahul";;"Singh";"male";"7635827457";"rs@gmail.com";"1234";"Non Vegetarian";"Late Night";"LAW";"Basketball";"2019-10-30 12:04:29";NULL;NULL
+"28";"16365293";"Tanvi";;"Jain";"female";"82663839";"tj@gmail.com";"1234";"Vegetarian";"Late Night";"Under Graduate";"American Football";"2019-10-30 12:05:04";NULL;NULL
+"29";"9753892";"Nikita ";;"Goel";"female";"72528358";"ng@gmil.com";"1234";"Vegetarian";"Late Night";"Graduate";"American Football";"2019-10-30 12:05:44";NULL;NULL
+"31";"1736789";"Zeal";;"Patel";"male";"73672935";"zp@gmail.com";"1234";"Vegetarian";"Early Morning";"Graduate";"Baseball";"2019-10-30 12:07:21";NULL;NULL
+"32";"7152868";"Raju";;"Nekadi";"male";"857849467";"rn@gmail.com";"1234";"Non Vegetarian";"Early Morning";"Graduate";"Baseball";"2019-10-30 12:24:37";NULL;NULL
+"33";"864883";"Tina";;"Singh";"female";"8376483938";"ts@gmail.com";"1234";"Vegetarian";"Early Morning";"Under Graduate";"American Football";"2019-10-30 12:26:05";NULL;NULL
+"34";"8577499";"Khushi";;"Chandra";"female";"39947920";"kc@gmail.com";"1234";"Vegetarian";"Early Morning";"Under Graduate";"None";"2019-10-30 12:26:47";NULL;NULL
+"35";"9745738";"Arun";;"Rajput";"male";"77468396";"ar@gmail.com";"1234";"Non Vegetarian";"Late Night";"Graduate";"Basketball";"2019-10-30 12:27:41";NULL;NULL
+"36";"8648746";"Mansimran ";;"Singh";"male";"764893658";"ms@gmail.com";"1234";"Non Vegetarian";"Early Morning";"Under Graduate";"Basketball";"2019-10-30 12:43:03";NULL;NULL
+"37";"57483956";"Ankita ";;"Negi";"female";"74749374";"an@gmail.com";"1234";"Vegetarian";"Late Night";"Medical";"American Football";"2019-10-30 12:43:37";NULL;NULL
+"38";"68543";"Sneha";;"Singh";"female";"85758874";"ss@gmail.com";"1234";"Vegetarian";"Late Night";"Medical";"Baseball";"2019-10-30 12:50:43";NULL;NULL
+"39";"645465";"Steve";;"Jobs";"male";"74748493";"sj@gmail.com";"1234";"Vegetarian";"Early Morning";"Graduate";"Ice Hockey";"2019-10-30 12:51:33";NULL;NULL
+"40";"8474936";"Mark";;"Zuckerberg";"male";"747399";"mz@fb.com";"1234";"Non Vegetarian";"Late Night";"Graduate";"None";"2019-10-30 12:52:07";NULL;NULL
