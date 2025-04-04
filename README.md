@@ -1,1 +1,1 @@
-# Dorm-Management-System
+# Hostel-Management-System
